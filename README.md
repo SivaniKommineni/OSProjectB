@@ -3,8 +3,13 @@ This project focuses on implementing system calls in an operating system. Create
 ‘compileOS.sh’ is used to run all the comments. Command java -jar simulator.jar is given to start the stimulator. 
 
 The following functionalities have been successfully implemented:
+
 Displaying content on the screen.
+
 Reading characters from the keyboard
+
 Read a sector from the disk
+
 Implementing interrupt.
+
 Interrupt 0x21 handler providing printString, readString, and readSector services.
